@@ -1,4 +1,4 @@
-# Open Table
+# Meza
 #### A Restaurant Booking Application, 25/01/2024
 ### **BY Nicholas,Sean & Caleb
 ## Description
@@ -15,11 +15,7 @@
 
 ## Features
 A user can:
- - Register an account.
- - Login to their accounts.
- - Logout of their accounts.
- - Edit their profile details.
- - Reset their password.
+ - Authentication
  - Access all available restaurants for booking.
  - Can reserve a table at any Restaurant of their choosing.
  - Can access all their reservations.
